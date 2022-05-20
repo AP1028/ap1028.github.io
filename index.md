@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/AP1028/ap1028.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Projects
+### Projects
 
 1. Project Ring-of-Stars
 2. Project Nebula
