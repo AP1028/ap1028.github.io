@@ -16,23 +16,23 @@
 
 1. **无政府公共生存服务器**(我懒得管且对服务器管理不太熟悉)
 
-   地址：<u>**homeserver040322.ddns.net**</u>
+   地址：**<u>homeserver040322.ddns.net</u>**
    
 2. **JZMF建设服务器**(一座JZMF坐落于超平坦大陆上)
 
-   地址：<u>**homeserver040322.ddns.net:25566**</u>
+   地址：**<u>homeserver040322.ddns.net:25566</u>**
    
 3. **"JZMF-wild"**(与JZMF建设服务器一样拥有学校的结构，但是被用[Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor)整体结构编辑放入了普通世界中)
 
-   地址：<u>**homeserver040322.ddns.net:25567**</u>
+   地址：**<u>homeserver040322.ddns.net:25567</u>**
 
 ### 2. 基岩版(v1.19.2)
 
 1. **基岩版JZMF服务器**(同JAVA版的JZMF建设服务器)
 
-   地址：<u>**homeserver040322.ddns.net**</u>
+   地址：**<u>homeserver040322.ddns.net</u>**
 
-   端口号：<u>**19132**</u>
+   端口号：**<u>19132</u>**
 
 ## 2. 国际版客户端安装教程
 
@@ -68,7 +68,7 @@
 
 打开HMCL
 
-![startHMCL](C:\Users\Admin\Desktop\MinecraftServer\startHMCL.png)
+![startHMCL](./startHMCL.png)
 
 点下载，然后下载1.18.2
 
@@ -78,7 +78,7 @@
 
 其余全部均不安装
 
-![install](C:\Users\Admin\Desktop\MinecraftServer\install.png)
+![install](./install.png)
 
 然后点安装，等待下载完成
 
@@ -86,7 +86,7 @@
 
 这个用户名会显示在游戏中，为了方便服务器管理，请输入姓名首字母+学号，如xty37
 
-![login](C:\Users\Admin\Desktop\MinecraftServer\login.png)
+![login](./login.png)
 
 登录后点左下角启动游戏，你就完成了。
 
@@ -102,7 +102,7 @@
 
 输入相应的地址和端口号
 
-![beserver](C:\Users\Admin\Desktop\MinecraftServer\beserver.jpg)
+![beserver](./beserver.jpg)
 
 然后当你准备加入服务器前，它会强迫你登录微软账号
 
