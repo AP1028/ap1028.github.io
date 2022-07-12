@@ -31,6 +31,16 @@
 2. **JZMF建设服务器**(一座JZMF坐落于超平坦大陆上，可以用作建造计划)
 
    地址：**<u>homeserver040322.ddns.net:25566</u>**
+   
+   ![entrance](./entrance.png)
+   
+   ![building](./building.png)
+   
+   ![classroom](./classroom.png)
+   
+   ![moonshot](./moonshot.png)
+   
+   ![birdeyeview](./birdeyeview.png)
 
 ### 2. 基岩版(v1.19.2)
 
