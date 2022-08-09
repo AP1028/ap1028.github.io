@@ -22,35 +22,35 @@
 
 1. 打开文件资源管理器，点击最上方地址栏，输入```\\homeserver040322.ddns.net```
 
-![Input](C:\Users\tianyixia\Documents\GitHub\ap1028.github.io\FileServer\Input.png)
+![Input](.\Input.png)
 
 2. 双击```[指定文件夹名]```，输入用户名和密码
 
-![Display](C:\Users\tianyixia\Documents\GitHub\ap1028.github.io\FileServer\Display.png)
+![Display](.\Display.png)
 
 3. 此后，你已经成功进入共享文件夹，可以 Drag & Drop 或是用快捷键。
 
 4. 如果你需要更加方便地使用它，可以退回```\\homeserver040322.ddns.net```，右击```[指定文件夹名]```，选择```显示更多选项```*[仅有Win11才需要]*-->```映射网络驱动器```
 
-![WebDrive](C:\Users\tianyixia\Documents\GitHub\ap1028.github.io\FileServer\WebDrive.png)
+![WebDrive](.\WebDrive.png)
 
 ### 2. iPadOS / iOS
 
 1. 打开```文件```
 
-![ipad](C:\Users\tianyixia\Documents\GitHub\ap1028.github.io\FileServer\ipad.png)
+![ipad](.\ipad.png)
 
 2. 点击```...```，然后点```连接服务器```
 
-![select](C:\Users\tianyixia\Documents\GitHub\ap1028.github.io\FileServer\select.png)
+![select](.\select.png)
 
 3. 跟随指示，输入用户名和密码
 
-![ipadpasswd](C:\Users\tianyixia\Documents\GitHub\ap1028.github.io\FileServer\ipadpasswd.png)
+![ipadpasswd](.\ipadpasswd.png)
 
 4. 公共文件夹会出现在```已共享```，可以由此快速访问
 
-![ipadfinal](C:\Users\tianyixia\Documents\GitHub\ap1028.github.io\FileServer\ipadfinal.png)
+![ipadfinal](.\ipadfinal.png)
 
 ### 3. 安卓
 
