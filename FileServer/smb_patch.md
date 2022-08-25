@@ -2,7 +2,7 @@
 
 由于交大校园网的防火墙禁止了对445端口的访问，导致原先基于SMB的文件服务器(Windows文件管理器```\\homeserver040322.ddns.net```)无法在连接校园网时使用，使用移动数据和热点则不受影响。
 
-原本的HTTP下载服务器(http://homeserver040322.ddns.net:18080)不受防火墙影响。
+原本的HTTP下载服务器([http://homeserver040322.ddns.net:18080](http://homeserver040322.ddns.net:18080)不受防火墙影响。
 
 ## 解决方法一(recommended)
 
