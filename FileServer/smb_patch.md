@@ -42,7 +42,7 @@ Windows文件管理器 -> 上方菜单栏 -> 点```···```(*仅有Windows 11�
 
 完成后，你应看到如下图标：
 
-![ftp](C:\Users\tianyixia\Documents\GitHub\ap1028.github.io\FileServer\ftp.png)
+![ftp](./ftp.png)
 
 **然而，FTP服务在不同网络条件下稳定性参差不齐。**
 
